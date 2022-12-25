@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\geola\Desktop\Queue\Queue\Source.cpp(16,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\geola\Desktop\Queue\Queue\Source.cpp(77,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geola\Desktop\Queue\Queue\Source.cpp(101,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geola\Desktop\Queue\Queue\Source.cpp(117,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Queue.vcxproj -> C:\Users\geola\Desktop\Queue\x64\Debug\Queue.exe

@@ -1,0 +1,8 @@
+﻿  Queue.cpp
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall Queue<int>::Enqueue(int)" (?Enqueue@?$Queue@H@@QAEXH@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: int __thiscall Queue<int>::Dequeue(void)" (?Dequeue@?$Queue@H@@QAEHXZ) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: int __thiscall Queue<int>::Peek(void)" (?Peek@?$Queue@H@@QAEHXZ) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: int __thiscall Queue<int>::Size(void)" (?Size@?$Queue@H@@QAEHXZ) referenced in function _main
+C:\Users\geola\Desktop\Queue\Debug\Queue.exe : fatal error LNK1120: 4 unresolved externals
